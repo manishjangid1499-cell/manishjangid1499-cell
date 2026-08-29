@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-## 👋 About Me
-
 🎓 B.Tech graduate in Electronics & Communication Engineering (ECE), 2026.
 
 💻 Aspiring **Java Backend / Full-Stack Developer** passionate about building reliable, maintainable, and real-world software applications.
